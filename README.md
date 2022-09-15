@@ -1,6 +1,6 @@
 # MinecraftModList
 
-to view the mod list with links download and open modlist.html
+to view the mod list with links download the using option 2 and open the contained modlist.html
 
 
 For those of you who don't know how to use github.
